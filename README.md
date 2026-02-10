@@ -10,7 +10,6 @@ Projeto feito com uso de IA + conhecimentos básicos na linguagem Python.
 * Baixar a ultima versão [aqui](https://github.com/jhohannes.freitas/validado_planilhas_migracao_movidesk)
 * Baixe os arquivos individualmente, clicando no nome do arquivo, após abrir procure uma opção no lado direito superior, chamada "Download raw file".
 * Você vai precisar de uma ferramenta IDE para edição e execução do código 
-* Você vai precisar de uma ferramenta IDE para edição e execução do código 
 * Pode ser o PyCharm ou VS Code. Ambas precisarão de chamado no Jira para a instalação.
     * Baixar o Pycharm [aqui](https://www.jetbrains.com/pt-br/pycharm/download/?section=windows)
       * Como instalar e configurar o Pycharm [aqui](https://www.youtube.com/watch?v=EDQGZEsNARg)
