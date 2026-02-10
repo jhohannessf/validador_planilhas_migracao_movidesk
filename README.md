@@ -1,4 +1,4 @@
-# Validador de planilhas da Migração Movidesk - 1.0
+# Validador de planilhas da Migração Movidesk - v 1.0
 
 Este programa consiste em validar individualmente as planilhas utilizadas na migração de dados para o Movidesk. Para algumas colunas ele corrige os dados com erro, para outras informa o erro e você precisará ajustar manualmente, confirmando os dados com o cliente.
 
