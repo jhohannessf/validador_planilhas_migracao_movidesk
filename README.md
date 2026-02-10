@@ -2,11 +2,14 @@
 
 Este programa consiste em validar individualmente as planilhas utilizadas na migração de dados para o Movidesk. Para algumas colunas ele corrige os dados com erro, para outras informa o erro e você precisará ajustar manualmente, confirmando os dados com o cliente.
 
+Projeto feito com uso de IA + conhecimentos básicos na linguagem Python.
+
 
 ## Uso
 
 * Baixar a ultima versão [aqui](https://github.com/jhohannes.freitas/validado_planilhas_migracao_movidesk)
-* Descompacte o arquivo em qualquer local no computador
+* Baixe os arquivos individualmente, clicando no nome do arquivo, após abrir procure uma opção no lado direito superior, chamada "Download raw file".
+* Você vai precisar de uma ferramenta IDE para edição e execução do código 
 * Você vai precisar de uma ferramenta IDE para edição e execução do código 
 * Pode ser o PyCharm ou VS Code. Ambas precisarão de chamado no Jira para a instalação.
     * Baixar o Pycharm [aqui](https://www.jetbrains.com/pt-br/pycharm/download/?section=windows)
